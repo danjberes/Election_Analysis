@@ -11,6 +11,7 @@ A Colorado Board of Elections employee has asked the following tasks to be compl
 
 ## Resources
 -Data Acquired from: [election_results.csv](https://github.com/danjberes/Election_Analysis/blob/master/Resources/election_results.csv)
+
 -Software: Python v.3.8.5, Visual Studio Code v.1.49.1
 
 ## Election Audit Results
